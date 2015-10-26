@@ -1,4 +1,4 @@
-public class Vowels {
+public class Vowels ex{
 
   public static int getCount(String str) {
     int vowelsCount = 0;

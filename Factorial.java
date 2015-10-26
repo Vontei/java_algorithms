@@ -1,4 +1,5 @@
-public class Factorial {
+
+public class Factorial extends HelloWorld{
 
   public int factorial(int n) {
     System.out.println(n);
@@ -14,4 +15,6 @@ public class Factorial {
     }
     return result;
   }
+
 }
+System.out.println(factorial(5));
